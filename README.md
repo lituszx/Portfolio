@@ -1,5 +1,14 @@
 # Portfolio
 
+Software Developement<br>
+Some of my projects in software developement.<br>
+
+- [.NET Project + ODOO](https://github.com/lituszx/GenteFitProject)<br>
+* Project written in C# and using Windows Forms as the front-end, through the .NET Framework and using ADO.NET Entity Framework for queries to SQL Server. <br>
+-[TravelAndMountains](https://github.com/lituszx/TravelAndMountains)<br>
+* Project written in Java, using patterns such as DAO and FACTORY for MySQL database persistence, using HIBERNATE ORM, and using JavaFX combined with CSS for the front-end. <br>
+
+
 Unity Projects (3D,2D,AR,VR)
 
 [DEMO REEL](https://youtu.be/IMcVIpBIWTs)<br>
